@@ -13,4 +13,6 @@ app\services\model_service.py
 app\api\routes_predict.py
 app\middleware\logging_middleware.py
 app\main.py
-
+Dockerfile
+prometheus.yml
+docker-compose.yml
