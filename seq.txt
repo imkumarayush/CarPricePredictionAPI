@@ -2,3 +2,6 @@ readme
 gitignore
 app\core\config.py
 app\core\security.py
+app\core\dependencies.py
+app\core\exceptions.py
+app\api\routes_auth.py
