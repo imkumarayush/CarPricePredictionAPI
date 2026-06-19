@@ -11,4 +11,6 @@ training\train_model.py ->run-> app\models\model.joblib
 app\cache\redis_cache.py
 app\services\model_service.py
 app\api\routes_predict.py
+app\middleware\logging_middleware.py
+app\main.py
 
